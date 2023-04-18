@@ -1,2 +1,2 @@
-# algorithms-in-java
-Algorithms exercises in Java
+# algorithm-in-java
+Algorithm exercises in Java
